@@ -45,11 +45,6 @@ JS_Debugging_Form_Enhancement_Project/
 
 2. **Open `index.html`** in your browser to view the form and test the features.
 
-## 🖼️ Screenshots
-
-![Form Screenshot](path/to/screenshot1.png)
-![Console Screenshot](path/to/screenshot2.png)
-
 ## 📞 Connect with Me
 
 - **LinkedIn**: [Mehul Bhargav](https://www.linkedin.com/in/mehulbhargav/)
